@@ -8,7 +8,6 @@ namespace HackerNewsAPI.Services
 {
     public class HackerNewsAPIService
     {
-
         private readonly HttpClient _httpClient;
         private readonly IMemoryCache _cache;
         private readonly HackerNewsAPIConfig _config;
