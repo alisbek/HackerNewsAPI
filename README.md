@@ -11,6 +11,7 @@ The Hacker News API is a service that provides information about the best storie
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
+- [Deployment](#deployment)
 - [Contributing](#contributing)
 
 ## Getting Started
@@ -68,6 +69,9 @@ Response:
 ## Testing
 TBD
 Add unit tests + coverage + GithubAction on PR
+
+## Deployment
+TBD configure CI/CD
 
 ## Contributing
 TBD
