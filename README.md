@@ -43,10 +43,10 @@ The configuration of the API is defined in appsettings.json. You can customize t
 ## Usage
 You can access the following endpoints to interact with the API:
 
-`GET /beststories/123`: Retrieve a list of the best stories from Hacker News.
-
+`GET /beststories/1`: Retrieve a list of the best stories from Hacker News.
+where 1 is number of stories in object
 ## API Endpoints
-`GET /beststories`
+`GET /beststories/15`
 Retrieve a list of the best stories from Hacker News, sorted by score.
 
 Response:
